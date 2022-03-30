@@ -1,9 +1,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArshiaRx&count_private=true&include_all_commits=true&show_icons=true&custom_title=GitHub%20stats&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&langs_count=3&count_private=true&include_all_commits=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github.com/ArshiaRx/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/ArshiaRx/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/ArshiaRx/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/ArshiaRx/GitHub-Stats-Visualization/blob/master/generated/overview.svg)
+![](https://github.com/ArshiaRx/GitHub-Stats-Visualization/blob/master/generated/languages.svg)
 
 Computer Engineer/Science Student :)
 
