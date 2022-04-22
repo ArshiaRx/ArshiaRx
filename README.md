@@ -1,6 +1,3 @@
-Hi 👋 My name is Arshia Rx
-=============================
-
 Computer Engineer/Science Student
 ---------------------------------
 
