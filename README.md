@@ -7,7 +7,8 @@ Computer Engineer/Science Student
 ![image](https://www.emojibase.com/resources/img/emojis/apple/1f1e8-1f1e6.png)
 
 * 🌍  I'm based in CA, Toronto
-* 🤝  I'm open to collaborating on DevOps & Software Engineering
+* 🧠  I'm learning GitHub & GitHub Actions
+* 🤝  I'm open to collaborating on DevOps & Software Engineering/Development
 
 <a href="https://www.github.com/ArshiaRx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ArshiaRx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
