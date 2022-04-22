@@ -4,7 +4,7 @@ Hi 👋 My name is Arshia Rahim
 Computer Engineer/Science Student
 -------------------------
 ![image](https://www.emojibase.com/resources/img/emojis/apple/1f1e8-1f1e6.png)
-* 🌍  I'm based in Toronto 
+* 🌍  I'm based in Ca, Toronto
 * 🤝  I'm open to collaborating on DevOps, Software Development
 
 ### Skills
