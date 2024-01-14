@@ -120,19 +120,12 @@ My name is Arshia Rahim and I am Computer Engineering Student based in GTA 🏠.
 <h3 align="center">IDEs and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square & logo=apachenetbeanside & logoColor = white" alt="NetBeans" />&nbsp;
-  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square & logo=git & logoColor=white" alt="Git" />&nbsp;
-  
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square & logo=unity & logoColor = white" alt="Unity" />&nbsp;
-  
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square & logo=visualstudiocode & logoColor=white" alt="VSCode" />&nbsp;
-  
   <img src="https://img.shields.io/badge/Visual_Paradigm-394775?style=flat-square" alt="Visual Paradigm" />&nbsp;
-  
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square & logo=pycharm & logoColor=white" alt="PyCharm" />&nbsp;
-  
-  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square & logo=autodesk & logoColor = white" alt="AutoCAD" />
-</p>
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square & logo=autodesk & logoColor = white" alt="AutoCAD" /></p>
 
 <h3 align="center">Operating Systems:</h3>
 <p align="center">
