@@ -1,5 +1,8 @@
 Hello There 
-My name is Arshia Rahim and I am Computer Engineering Student based in GTA . I enjoy learning new languages and exploring what I can do with my knowledge. I'm currently on Software & Hardware Projects in my free time which Im going to be sharing it here.
+
+My name is Arshia Rahim and I am Computer Engineering Student based in GTA . I enjoy learning new languages and exploring 
+
+what I can do with my knowledge. I'm currently on Software & Hardware Projects in my free time which Im going to be sharing it here.
 Computer Engineer/Science Student
 ---------------------------------
 
