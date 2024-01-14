@@ -1,4 +1,4 @@
-Computer Engineer/Science Student Im current
+Software Engineering Student
 ---------------------------------
 
 ![image](https://www.emojibase.com/resources/img/emojis/apple/1f1e8-1f1e6.png)
