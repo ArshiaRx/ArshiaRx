@@ -1,10 +1,8 @@
 Hello There 👋🏻
 
-My name is Arshia Rahim and I am Computer Engineering Student based in GTA 🏠. I enjoy learning new languages and exploring what I can do with my knowledge 🧠. I'm currently on Software & Hardware Projects in my free time which Im going to be sharing 
+My name is Arshia Rahim and I am Computer Engineering Student based in GTA 🏠. I enjoy learning new languages and exploring what I can do with my knowledge 🧠. I'm currently on Software & Hardware Projects in my free time which Im going to be sharing it here. These projects are a combination of indisual and group projectscitnsion.
 
-it here.
-
-Computer Engineer/Science Student
+Computer Engineer/Science StudentIm current
 ---------------------------------
 
 ![image](https://www.emojibase.com/resources/img/emojis/apple/1f1e8-1f1e6.png)
