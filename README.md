@@ -134,14 +134,15 @@ My name is Arshia Rahim and I am Computer Engineering Student based in GTA 🏠.
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square & logo=windows & logoColor=white" alt = "Windows" />
 </p>
 
+
 <!-- You can include your GitHub stats as follows: -->
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AriooGN & show_icons=true & locale=en & theme=dark" alt = "AriooGN" width = "495px"/> </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AriooGN&theme=dark" alt="AriooGN" /> </p>
 
-<!--
 <p align="center">
   <a href="https://leetcode.com/arianfooladray/" target="blank">
     <img align="center" src="https://leetcard.jacoblin.cool/arianfooladray?theme=dark & font=Monda & ext=activity" />
