@@ -141,6 +141,7 @@ My name is Arshia Rahim and I am Computer Engineering Student based in GTA 🏠.
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AriooGN&theme=dark" alt="AriooGN" /> </p>
 
+<!--
 <p align="center">
   <a href="https://leetcode.com/arianfooladray/" target="blank">
     <img align="center" src="https://leetcard.jacoblin.cool/arianfooladray?theme=dark & font=Monda & ext=activity" />
@@ -149,7 +150,4 @@ My name is Arshia Rahim and I am Computer Engineering Student based in GTA 🏠.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AriooGN & show_icons=true & locale=en & theme=dark" alt = "AriooGN" /></p>
-
-
-
-
+-->
