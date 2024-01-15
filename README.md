@@ -144,17 +144,18 @@ I try to evovle as a Software Programmer.
 
 
 <!-- You can include your GitHub stats as follows: -->
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshiaRx & show_icons=true & locale=en & theme=dark" alt = "ArshiaRx" width = "495px"/> </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiaRx & theme=dark" alt="ArshiaRx" /> </p>
-
+-->
 <p align="center">
   <a href="https://leetcode.com/ArshiaRx/" target="blank">
     <img align="center" src="https://leetcard.jacoblin.cool/ArshiaRx?theme=dark & font=Monda & ext=activity" />
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArshiaRx & show_icons=true & locale=en & theme=dark" alt = "ArshiaRx" /></p>
+<!--<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArshiaRx & show_icons=true & locale=en & theme=dark" alt = "ArshiaRx" /></p>-->
