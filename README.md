@@ -79,11 +79,11 @@ src="https://img.shields.io/github/followers/ArshiaRx?logo=github&style=for-the-
 <!--[arianfooladray.com](https://www.arianfooladray.com)-->
 Hello There 👋🏻
 
-My name is Arshia Rahim and I am Computer Engineering Student based in GTA 
+My name is Arshia Rahim and I am Computer Engineering Student based in Toronto, ON 🇨🇦(GTA)
 
-I enjoy learning new languages and exploring what I can do with my knowledge 🧠. I'm currently working on Software & Hardware Projects in my free time which Im going to be sharing it here. 
+I enjoy learning new languages and exploring what I can do with my knowledge 🧠. I'm currently working on Software & Hardware Projects in my free time which Im going to be sharing and documenting it here 💻🛠️📝📚. 
 
-These projects are a combination of Individual and group projects . I am hoping I can bring my ideas to life using the knowledge I learn in these projects as thats when I learn best. Combining my knowldege from school and gained experience,
+These projects are a combination of Individual👤 and group projects👥 . I am hoping I can bring my ideas to life using the knowledge I learn in these projects as thats when I learn best. Combining my knowldege from school and gained experience,
 I try to evovle as a Software Programmer.
 
 <hr>
