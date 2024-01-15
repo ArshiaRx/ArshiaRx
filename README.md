@@ -79,7 +79,13 @@ src="https://img.shields.io/github/followers/ArshiaRx?logo=github&style=for-the-
 <!--[arianfooladray.com](https://www.arianfooladray.com)-->
 Hello There 👋🏻
 
-My name is Arshia Rahim and I am Computer Engineering Student based in GTA 🏠. I enjoy learning new languages and exploring what I can do with my knowledge 🧠. I'm currently on Software & Hardware Projects in my free time which Im going to be sharing it here. These projects are a combination of indisual and group projectscitnsion.
+My name is Arshia Rahim and I am Computer Engineering Student based in GTA 
+
+I enjoy learning new languages and exploring what I can do with my knowledge 🧠. I'm currently working on Software & Hardware Projects in my free time which Im going to be sharing it here. 
+
+These projects are a combination of Individual and group projects . I am hoping I can bring my ideas to life using the knowledge I learn in these projects as thats when I learn best. Combining my knowldege from school and gained experience,
+I try to evovle as a Software Programmer.
+
 <hr>
 
 <h3 align="center">Connect with me:</h3>
@@ -126,7 +132,8 @@ My name is Arshia Rahim and I am Computer Engineering Student based in GTA 🏠.
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square & logo=visualstudiocode & logoColor=white" alt="VSCode" />&nbsp;
   <img src="https://img.shields.io/badge/Visual_Paradigm-394775?style=flat-square" alt="Visual Paradigm" />&nbsp;
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square & logo=pycharm & logoColor=white" alt="PyCharm" />&nbsp;
-  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square & logo=autodesk & logoColor = white" alt="AutoCAD" /></p>
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square & logo=autodesk & logoColor = white" alt="AutoCAD" />
+</p>
 
 <h3 align="center">Operating Systems:</h3>
 <p align="center">
@@ -137,19 +144,17 @@ My name is Arshia Rahim and I am Computer Engineering Student based in GTA 🏠.
 
 
 <!-- You can include your GitHub stats as follows: -->
-<!--
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AriooGN & show_icons=true & locale=en & theme=dark" alt = "AriooGN" width = "495px"/> </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshiaRx & show_icons=true & locale=en & theme=dark" alt = "ArshiaRx" width = "495px"/> </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AriooGN&theme=dark" alt="AriooGN" /> </p>
 
 <p align="center">
-  <a href="https://leetcode.com/arianfooladray/" target="blank">
-    <img align="center" src="https://leetcard.jacoblin.cool/arianfooladray?theme=dark & font=Monda & ext=activity" />
+  <a href="https://leetcode.com/ArshiaRx/" target="blank">
+    <img align="center" src="https://leetcard.jacoblin.cool/ArshiaRx?theme=dark & font=Monda & ext=activity" />
   </a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AriooGN & show_icons=true & locale=en & theme=dark" alt = "AriooGN" /></p>
--->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArshiaRx & show_icons=true & locale=en & theme=dark" alt = "ArshiaRx" /></p>
