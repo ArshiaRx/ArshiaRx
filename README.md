@@ -148,7 +148,7 @@ I try to evovle as a Software Programmer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshiaRx & show_icons=true & locale=en & theme=dark" alt = "ArshiaRx" width = "495px"/> </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AriooGN&theme=dark" alt="AriooGN" /> </p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiaRx & theme=dark" alt="ArshiaRx" /> </p>
 
 <p align="center">
   <a href="https://leetcode.com/ArshiaRx/" target="blank">
