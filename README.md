@@ -70,7 +70,7 @@ src="https://img.shields.io/github/followers/ArshiaRx?logo=github&style=for-the-
   <a href="https://github.com/ArshiaRx"><img src="https://komarev.com/ghpvc/?username=ArshiaRx&label=Profile%20views&color=0e75b6&style=flat" alt="ArshiaRx" /></a>
 </p>
 
-- 🔭 I’m currently working on <!-- [Unity-based games](https://www.arianfooladray.com/projects/unity) and [Python projects](https://www.arianfooladray.com/projects/python) -->
+<!-- 🔭 I’m currently working on my -- [Unity-based games](https://www.arianfooladray.com/projects/unity) and [Python projects](https://www.arianfooladray.com/projects/python) -->
 - 🌱 I’m currently learning **Database Systems, Signals and Systems**
 - 👯 I’m looking to collaborate on **innovative open-source projects**
 - 🤝 I’m looking for help with **securing a software development internship**
