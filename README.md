@@ -158,10 +158,9 @@ I try to evovle as a Software Programmer.
   </a>
 </p>
 
+![GitHub Stats](https://raw.githubusercontent.com/ArshiaRx/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Language Used](https://raw.githubusercontent.com/ArshiaRx/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArshiaRx&count_private=true&include_all_commits=true&show_icons=true&custom_title=GitHub%20stats&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&langs_count=3&count_private=true&include_all_commits=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github.com/ArshiaRx/github-stats/blob/master/generated/overview.svg) ![](https://github.com/ArshiRx/github-stats/blob/master/generated/languages.svg)
 
 <!--<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArshiaRx & show_icons=true & locale=en & theme=dark" alt = "ArshiaRx" /></p>-->
