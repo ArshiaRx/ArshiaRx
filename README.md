@@ -41,7 +41,7 @@ Software Engineering Student
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ArshiaRx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arshia-rahim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
+-->
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -54,15 +54,7 @@ Software Engineering Student
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiaRx & stroke=ffffff & background=1c1917 & ring=ef4444 & fire=ef4444 & currStreakNum=ffffff & currStreakLabel=ef4444 & sideNums=ffffff & sideLabels=ffffff & dates=ffffff & hide_border=true" />
 </a>
 
-<a href="https://github.com/ArshiaRx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
-<!--
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArshiaRx&count_private=true&include_all_commits=true&show_icons=true&custom_title=GitHub%20stats&theme=default)](https://github.com/anuraghazra/github-readme-stats)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&langs_count=3&count_private=true&include_all_commits=true&theme=default)](https://github.com/ArshiaRx/github-readme-stats)
-<!--
-![](https://github.com/ArshiaRx/GitHub-Stats-Visualization/blob/master/generated/overview.svg)
-![](https://github.com/ArshiaRx/GitHub-Stats-Visualization/blob/master/generated/languages.svg)-->
--->
+
 ----------------------------------------------------------------------------------------------
 <h1 align="center">Hi 👋, I'm Arshia </h1>
 <h3 align="center">3rd Year Computer Engineering Student | Software Engineer (Minor Computer Science) | Tech Enthusiast</h3>
@@ -162,9 +154,6 @@ I try to evovle as a Software Programmer.
 
 ![GitHub Stats](https://raw.githubusercontent.com/ArshiaRx/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Language Used](https://raw.githubusercontent.com/ArshiaRx/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArshiaRx&count_private=true&include_all_commits=true&show_icons=true&custom_title=GitHub%20stats&theme=default)](https://github.com/ArshiaRx/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&langs_count=3&count_private=true&include_all_commits=true&theme=default)](https://github.com/ArshiaRx/github-readme-stats)
 
 <!--<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArshiaRx & show_icons=true & locale=en & theme=dark" alt = "ArshiaRx" /></p>-->
