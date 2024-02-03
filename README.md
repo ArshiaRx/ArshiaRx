@@ -9,23 +9,6 @@ Software Engineering Student
 -->
 
 <!--
-
-<p 
-  align="center">
-  <h1>Skills 
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  </a>
-    
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-</a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
 </a>
@@ -33,27 +16,15 @@ Software Engineering Student
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
 </a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
-</a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
+-->
 
-
+<!--
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ArshiaRx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arshia-rahim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 -->
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ArshiaRx">
-<img src="https://github-readme-stats.vercel.app/api?username=ArshiaRx&show_icons=true & hide= & count_private=true&title_color=ef4444 & text_color=ffffff & icon_color=0891b2 & bg_color=1c1917 & hide_border=true & show_icons=true" alt="ArshiaRx's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/ArshiaRx">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiaRx & stroke=ffffff & background=1c1917 & ring=ef4444 & fire=ef4444 & currStreakNum=ffffff & currStreakLabel=ef4444 & sideNums=ffffff & sideLabels=ffffff & dates=ffffff & hide_border=true" />
-</a>
-
 
 ----------------------------------------------------------------------------------------------
 <h1 align="center">Hi 👋, I'm Arshia </h1>
@@ -96,16 +67,37 @@ I try to evovle as a Software Programmer.
 </p>
 
 
-<h3 align="center">Languages:</h3>
+<h3 align="center">Languages:</h3>  
+<!-- Programming Languages -->
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square & logo=python & logoColor=white" alt = "Python" /> &nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square & logo=openjdk & logoColor=white" alt = "Java" /> &nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square & logo=amazon-dynamodb & logoColor=white" alt = "SQL" /> &nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square & logo=cplusplus & logoColor=white" alt = "C++" /> &nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square & logo=c & logoColor=white" alt = "C" /> &nbsp;
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square & logo=c-sharp & logoColor=white" alt = "C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="25" height="25" alt="Python" /></a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="25" height="25" alt="Java" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="SQL" />&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="25" height="25" alt="MySQL" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />&nbsp;
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="25" height="25" alt="C" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+</p>
+
 
 <h3 align="center">Hardware Tools:</h3>
 <p align="center">
