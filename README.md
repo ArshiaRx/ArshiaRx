@@ -95,7 +95,6 @@ I try to evovle as a Software Programmer.
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
 
