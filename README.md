@@ -2,6 +2,10 @@ Software Engineering Student
 ---------------------------------
 
 ![image](https://www.emojibase.com/resources/img/emojis/apple/1f1e8-1f1e6.png)
+
+![GitHub User's stars](https://img.shields.io/github/stars/arshiaRx)
+
+
 <!--
 * 🌍  I'm based in CA, Toronto
 * 🧠  I'm learning GitHub & GitHub Actions
