@@ -31,8 +31,8 @@ Software Engineering Student
 -->
 
 ----------------------------------------------------------------------------------------------
-<h1 align="center">Hi 👋, I'm Arshia </h1>
-<h3 align="center">3rd Year Computer Engineering Student | Software Engineer (Minor Computer Science) | Tech Enthusiast</h3>
+<h1 align="center">Hi There👋, I'm Arshia </h1>
+<h3 align="center"> Last Year of Computer Engineering (Software) & Minor in Computer Science from TMU (Ryerson)</h3>
 <p align="center">
   <a href="https://github.com/ArshiaRx"><img src="https://komarev.com/ghpvc/?username=ArshiaRx&label=Profile%20views&color=0e75b6&style=flat" alt="ArshiaRx" /></a>
   <a href="https://www.github.com/ArshiaRx" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ArshiaRx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -60,10 +60,10 @@ I try to evovle as a Software Programmer.
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/arshia-rahim/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin & logoColor = white" alt = "LinkedIn"/> </a> &nbsp;
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn"/> </a> &nbsp;
   
   <a href="https://leetcode.com/ArshiaRx/" target = "_blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode & logoColor=black" alt = "LeetCode"/> </a> &nbsp;
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt = "LeetCode"/> </a> &nbsp;
   <!--
   <a href="https://www.arianfooladray.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge & logo=google-chrome & logoColor=white" alt = "Website"/> </a>
@@ -115,20 +115,20 @@ I try to evovle as a Software Programmer.
 
 <h3 align="center">IDEs and Tools:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square & logo=apachenetbeanside & logoColor = white" alt="NetBeans" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square & logo=git & logoColor=white" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square & logo=unity & logoColor = white" alt="Unity" />&nbsp;
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square & logo=visualstudiocode & logoColor=white" alt="VSCode" />&nbsp;
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />&nbsp;
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />&nbsp;
   <img src="https://img.shields.io/badge/Visual_Paradigm-394775?style=flat-square" alt="Visual Paradigm" />&nbsp;
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square & logo=pycharm & logoColor=white" alt="PyCharm" />&nbsp;
-  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square & logo=autodesk & logoColor = white" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />&nbsp;
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
 </p>
 
 <h3 align="center">Operating Systems:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square & logo=linux & logoColor=black" alt = "Linux" /> &nbsp;
-  <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square & logo=apple & logoColor=white" alt = "MacOS" /> &nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square & logo=windows & logoColor=white" alt = "Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt = "Linux" /> &nbsp;
+  <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white" alt = "MacOS" /> &nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt = "Windows" />
 </p>
 
 
@@ -143,12 +143,12 @@ I try to evovle as a Software Programmer.
 
 <p align="center">
   <a href="https://leetcode.com/ArshiaRx/" target="blank">
-    <img align="center" src="https://leetcard.jacoblin.cool/ArshiaRx?theme=dark & font=Monda & ext=activity" />
+    <img align="center" src="https://leetcard.jacoblin.cool/ArshiaRx?theme=dark&font=Monda&text=activity" />
   </a>
 </p>
 
-![GitHub Stats](https://raw.githubusercontent.com/ArshiaRx/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Language Used](https://raw.githubusercontent.com/ArshiaRx/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/ArshiaRx/github-stats/master/generated/overview.svg)
+![Language Used](https://raw.githubusercontent.com/ArshiaRx/github-stats/master/generated/languages.svg)
 
 <!--<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArshiaRx & show_icons=true & locale=en & theme=dark" alt = "ArshiaRx" /></p>-->
