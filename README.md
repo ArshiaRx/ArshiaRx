@@ -1,154 +1,162 @@
-Software Engineering Student
----------------------------------
+<h1 align="center">👋 Hey there, I'm Arshia</h1>
+<h3 align="center">
+  💻 Computer Engineering (Software) @ Toronto Metropolitan University (TMU/Ryerson) <br/>
+  🎓 Minor in Computer Science | 🇨🇦 Based in Toronto, Canada
+</h3>
 
-![image](https://www.emojibase.com/resources/img/emojis/apple/1f1e8-1f1e6.png)
-
-![GitHub User's stars](https://img.shields.io/github/stars/arshiaRx)
-
-
-<!--
-* 🌍  I'm based in CA, Toronto
-* 🧠  I'm learning GitHub & GitHub Actions
-* 🤝  I'm open to collaborating on DevOps & Software Engineering/Development
--->
-
-<!--
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-</a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
-</a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
--->
-
-<!--
-### Socials
-
-<p align="left"> <a href="https://www.github.com/ArshiaRx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arshia-rahim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
--->
-
-----------------------------------------------------------------------------------------------
-<h1 align="center">Hi There👋, I'm Arshia </h1>
-<h3 align="center"> Last Year of Computer Engineering (Software) & Minor in Computer Science from TMU (Ryerson)</h3>
 <p align="center">
-  <a href="https://github.com/ArshiaRx"><img src="https://komarev.com/ghpvc/?username=ArshiaRx&label=Profile%20views&color=0e75b6&style=flat" alt="ArshiaRx" /></a>
-  <a href="https://www.github.com/ArshiaRx" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ArshiaRx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+  <a href="https://github.com/ArshiaRx">
+    <img src="https://komarev.com/ghpvc/?username=ArshiaRx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/ArshiaRx?tab=followers">
+    <img src="https://img.shields.io/github/followers/ArshiaRx?style=flat&color=0891b2" alt="Followers"/>
+  </a>
+  <img src="https://img.shields.io/github/stars/ArshiaRx?label=Stars&style=flat&color=yellow" alt="Stars"/>
 </p>
 
-<!-- 🔭 I’m currently working on my -- [Unity-based games](https://www.arianfooladray.com/projects/unity) and [Python projects](https://www.arianfooladray.com/projects/python) -->
-- 🌱 I’m currently learning **Database Systems, Signals and Systems**
-- 👯 I’m looking to collaborate on **innovative open-source projects**
-- 🤝 I’m looking for help with **securing a software development internship**
-- 💬 Ask me about **Java, C, C#, Python, and Assembly (HCS12)**
-- 🌐 Visit my website: 
-<!--[arianfooladray.com](https://www.arianfooladray.com)-->
-Hello There 👋🏻
+---
 
-My name is Arshia Rahim and I am Computer Engineering Student based in Toronto, ON 🇨🇦(GTA)
+### 👨‍💻 About Me
 
-I enjoy learning new languages and exploring what I can do with my knowledge 🧠. I'm currently working on Software & Hardware Projects in my free time which Im going to be sharing and documenting it here 💻🛠️📝📚. 
+I’m **Arshia Rahim**, a final-year **Computer Engineering (Software)** student with a **Computer Science Minor** at Toronto Metropolitan University (TMU/Ryerson).  
+I’m passionate about connecting **real-world business systems with intelligent software technologies** — from modular web systems to AI-driven applications.
 
-These projects are a combination of Individual👤 and group projects👥 . I am hoping I can bring my ideas to life using the knowledge I learn in these projects as thats when I learn best. Combining my knowldege from school and gained experience,
-I try to evovle as a Software Programmer.
+🔹 Currently exploring:
+- 🧩 **Microservices, Database Systems, and Computer Vision**
+- 💰 Building my **Capstone: Budget AI Coach** — an AI-based expense tracking system using OCR, LangChain & YOLOv8
+- ⚙️ Developing full-stack web solutions in **Java, Python, and MySQL**
+- 🤖 Learning & working with **ChatGPT, Gemini, DeepSeek, Sora, and GitHub Copilot**
+- 🚀 Expanding my knowledge in **FastAPI, React, Docker, and CI/CD pipelines**
 
-<hr>
+💼 Alongside my studies, I work with **WirelessWave / Tbooth Wireless (Glentel Inc)** as a **Sales & Mobile Technology Specialist**.  
+There, I engage with mobile ecosystems, IoT devices, and national carriers (Bell, Rogers, Virgin Plus, Fido).  
+This experience has enhanced my **technical communication, adaptability, and system-level understanding** of how technology connects people daily.
 
-<h3 align="center">Connect with me:</h3>
+---
+
+### 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/arshia-rahim/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn"/> </a> &nbsp;
-  
-  <a href="https://leetcode.com/ArshiaRx/" target = "_blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt = "LeetCode"/> </a> &nbsp;
-  <!--
-  <a href="https://www.arianfooladray.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge & logo=google-chrome & logoColor=white" alt = "Website"/> </a>
-    -->
-</p>
-
-
-<h3 align="center">Languages:</h3>  
-<!-- Programming Languages -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="25" height="25" alt="Python" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="25" height="25" alt="Java" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="SQL" />&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="25" height="25" alt="MySQL" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />&nbsp;
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="25" height="25" alt="C" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />&nbsp;
-</p>
-
-
-<h3 align="center">Hardware Tools:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Multisim-054ADA?style=flat-square" alt="Multisim" />&nbsp;
-  <img src="https://img.shields.io/badge/Quartus-68A063?style=flat-square" alt="Quartus" />
-</p>
-
-<h3 align="center">Software Modeling:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/UML-FFB13B?style=flat-square&logo=uml&logoColor=white" alt="UML" />
-</p>
-
-<h3 align="center">IDEs and Tools:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />&nbsp;
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Paradigm-394775?style=flat-square" alt="Visual Paradigm" />&nbsp;
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />&nbsp;
-  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
-</p>
-
-<h3 align="center">Operating Systems:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt = "Linux" /> &nbsp;
-  <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white" alt = "MacOS" /> &nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt = "Windows" />
-</p>
-
-
-<!-- You can include your GitHub stats as follows: -->
-<!--
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshiaRx & show_icons=true & locale=en & theme=dark" alt = "ArshiaRx" width = "495px"/> </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiaRx & theme=dark" alt="ArshiaRx" /> </p>
--->
-
-<p align="center">
-  <a href="https://leetcode.com/ArshiaRx/" target="blank">
-    <img align="center" src="https://leetcard.jacoblin.cool/ArshiaRx?theme=dark&font=Monda&text=activity" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/ArshiaRx/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:arshia.rahim@torontomu.ca">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ArshiaRx" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-![GitHub Stats](https://raw.githubusercontent.com/ArshiaRx/github-stats/master/generated/overview.svg)
-![Language Used](https://raw.githubusercontent.com/ArshiaRx/github-stats/master/generated/languages.svg)
+---
 
-<!--<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArshiaRx & show_icons=true & locale=en & theme=dark" alt = "ArshiaRx" /></p>-->
+### 🧭 Currently Learning & Exploring
+- 🧠 **Computer Vision & OCR Pipelines** (YOLOv8, OpenCV, Tesseract)
+- 🤖 **AI Tools & Assistants:** Exploring ChatGPT, Gemini, DeepSeek, Sora, and Github Copilot for productivity, ideation and software assistant 
+- 🏗️ **Microservice Deployment:** Designing and managing modular service architectures with FastAPI, Docker, and RESTful APIs
+- 🌐 **Frontend & Visualization:** React + Tailwind + Recharts
+- 📊 **Capstone Focus:** AI-based Budget Coach combining OCR and LLM categorization
+
+---
+
+### 💼 Professional Experience
+
+**WirelessWave / Tbooth Wireless (Glentel Inc)** — *Sales & Mobile Technology Specialist*  
+*Toronto, Ontario | 2021–Present*  
+- Collaborate with national carriers (Bell, Rogers, Virgin Plus, Fido) to design tailored mobile plans & IoT solutions.  
+- Build expertise in **network systems, device ecosystems, and customer-driven technology integration**.  
+- Leverage communication & analytical skills to translate technical information into client-friendly language.  
+- Strengthened leadership, adaptability, and sales-engineering synergy across high-volume environments.
+
+---
+
+### 🧠 Technical Stack
+
+#### 💬 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+#### 🤖 AI & Automation Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeepSeek-00A67E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sora-A833FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
+</p>
+
+#### 🧰 Development & Modeling Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Paradigm-394775?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white"/>
+</p>
+
+#### ⚙️ Hardware & Simulation
+<p align="center">
+  <img src="https://img.shields.io/badge/Multisim-054ADA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Quartus-68A063?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Proteus-1D3557?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+</p>
+
+#### 💾 Operating Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Highlighted Projects
+
+#### 🧩 [LuxAuto Dealership System](https://github.com/ArshiaRx/LuxAuto)
+> Java | JSP | MySQL | Microservices  
+> A modular car dealership management web app with login, admin panel, and inventory tracking — built using Servlets and JSP.
+
+#### 💰 [Budget AI Coach (Capstone Project)](https://github.com/ArshiaRx/Budget-AI)
+> FastAPI | React | LangChain | YOLOv8 | OpenCV | Tesseract  
+> AI-based expense tracking system that classifies and visualizes user spending using OCR + intelligent categorization.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshiaRx&show_icons=true&theme=transparent&hide_border=true" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&layout=compact&theme=transparent&hide_border=true" width="42%">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArshiaRx&theme=transparent&hide_border=true" width="45%"/>
+</p>
+
+---
+
+### 🧮 LeetCode & Learning Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ArshiaRx?theme=dark&font=Monda&ext=activity" width="45%"/>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <strong>“Building intelligent systems that connect people, data, and technology.”</strong> ⚡  
+  <br>— Arshia RM
+</p>
