@@ -167,16 +167,9 @@ This experience has enhanced my **technical communication, adaptability, and sys
 
 ### 📊 GitHub Analytics
 
-![GitHub Metrics](./github-metrics.svg)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ArshiaRx&theme=tokyonight&hide_border=true)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ArshiaRx&theme=tokyonight&hide_border=true)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshiaRx&theme=tokyonight)
 
+![GitHub Metrics](./github-metrics.svg)
 
 
 ---
