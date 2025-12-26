@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I’m **Arshia Rahim**, Final-year **Computer Engineering (Software)** student with a **Computer Science Minor** at Toronto Metropolitan University (TMU/Ryerson).  
+I’m **Arshia Rahim**, Final-year **Computer Engineering (Software)** student with a **Computer Science Minor** from Toronto Metropolitan University (TMU/Ryerson).  
 I’m passionate about connecting **real-world business systems with intelligent software technologies** — from modular web systems to AI-driven applications.
 
 🔹 Currently exploring:
