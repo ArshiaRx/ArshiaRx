@@ -130,11 +130,11 @@ This experience has enhanced my **technical communication, adaptability, and sys
 #### 🤖 AI & Intelligent Systems
 - **[Budget AI Coach (Capstone Project)](https://github.com/ArshiaRx/Budget-AI)**  
   *FastAPI · React · LangChain · YOLOv8 · OpenCV · Tesseract*  
-  COE70A/B AI-driven budget and expense analysis platform using OCR and LLM-based categorization to extract, classify, and visualize spending behavior.
+  AI-driven budget and expense analysis platform using OCR and LLM-based categorization to extract, classify, and visualize spending behavior. (COE70A/B)
 
 - **[Real-Time Vehicle Tracking (Computer Vision)](https://github.com/ArshiaRx/real-time-vehicle-tracking-cv)**  
   *Python · YOLOv8 · Optical Flow · Kalman Filters*  
-  CPS843 Real-time vehicle detection and tracking system leveraging computer vision and motion estimation techniques.
+  Real-time vehicle detection and tracking system leveraging computer vision and motion estimation techniques. (CPS843)
 
 ---
 
@@ -142,39 +142,49 @@ This experience has enhanced my **technical communication, adaptability, and sys
 
 - **[Traffic News App](https://github.com/ArshiaRx/CPS731_TrafficNewsApp)**  
   *Java Servlets · JSP · MySQL · MVC*  
-  CPS731 Web-based traffic incident reporting system focused on backend integration, persistence, and modular software design.
+  Web-based traffic incident reporting system focused on backend integration, persistence, and modular software design. (CPS731)
 
 ---
 
 #### 🧠 Systems, Architecture & Algorithms
 - **[Car Dealership Architecture Project (COE692)](https://github.com/ArshiaRx/COE692_CarDealership_Project)**  
   *Java · Software Architecture · Requirements Engineering*  
-  COE692 Architecture-focused system design project emphasizing service boundaries, requirements analysis, and real-world domain modeling.
+  Architecture-focused system design project emphasizing service boundaries, requirements analysis, and real-world domain modeling. (COE692)
 
 - **[LeetCode Solutions (Auto-Synced)](https://github.com/ArshiaRx/LeetCode)**  
   *Python · Java · C++ · GitHub Actions*  
-  Automated repository of accepted algorithm solutions organized by difficulty with language usage analytics and CI-based syncing.
+  Automated repository of accepted algorithm solutions organized by difficulty with language usage analytics and CI-based syncing. ([LeetCode](https://leetcode.com/)
 
 - **[Microprocessor Systems Final Project](https://github.com/ArshiaRx/Microprocessor-Systems_FinalProject)**  
   *Assembly · Embedded Systems*  
-  COE538 Low-level microprocessor system implementation emphasizing hardware-software interaction and system constraints.
+  Low-level microprocessor system implementation emphasizing hardware-software interaction and system constraints. (COE538)
 
 - **[Bookstore Application (OOP & UML)](https://github.com/ArshiaRx/COE528-BookStore-Application)**  
   *Java · OOP · UML*  
-  COE528 Object-oriented application modeling a bookstore system using abstraction, class hierarchies, and UML design.
+  Object-oriented application modeling a bookstore system using abstraction, class hierarchies, and UML design. (COE528)
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshiaRx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&layout=compact&langs_count=8&hide_border=true" width="48%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ArshiaRx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArshiaRx&hide_border=true" width="60%"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ArshiaRx&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
+
 
 
 ---
