@@ -126,21 +126,53 @@ This experience has enhanced my **technical communication, adaptability, and sys
 
 ### 🚀 Highlighted Projects
 
-#### 🧩 [LuxAuto Dealership System](https://github.com/ArshiaRx/LuxAuto)
-> Java | JSP | MySQL | Microservices  
-> A modular car dealership management web app with login, admin panel, and inventory tracking — built using Servlets and JSP.
+#### 🤖 AI & Intelligent Systems
+- **[Budget AI Coach (Capstone Project)](https://github.com/ArshiaRx/Budget-AI)**  
+  *FastAPI · React · LangChain · YOLOv8 · OpenCV · Tesseract*  
+  AI-driven budget and expense analysis platform using OCR and LLM-based categorization to extract, classify, and visualize spending behavior.
 
-#### 💰 [Budget AI Coach (Capstone Project)](https://github.com/ArshiaRx/Budget-AI)
-> FastAPI | React | LangChain | YOLOv8 | OpenCV | Tesseract  
-> AI-based expense tracking system that classifies and visualizes user spending using OCR + intelligent categorization.
+- **[Real-Time Vehicle Tracking (Computer Vision)](https://github.com/ArshiaRx/real-time-vehicle-tracking-cv)**  
+  *Python · YOLOv8 · Optical Flow · Kalman Filters*  
+  Real-time vehicle detection and tracking system leveraging computer vision and motion estimation techniques.
+
+---
+
+#### 🏗️ Backend & Software Engineering
+- **[LuxAuto Dealership System](https://github.com/ArshiaRx/LuxAuto)**  
+  *Java · JSP · MySQL · Microservices*  
+  Modular dealership management platform featuring authentication, inventory management, and service-based architecture.
+
+- **[Traffic News App](https://github.com/ArshiaRx/CPS731_TrafficNewsApp)**  
+  *Java Servlets · JSP · MySQL · MVC*  
+  Web-based traffic incident reporting system focused on backend integration, persistence, and modular software design.
+
+---
+
+#### 🧠 Systems, Architecture & Algorithms
+- **[Car Dealership Architecture Project](https://github.com/ArshiaRx/COE692_CarDealership_Project)**  
+  *Java · Software Architecture · Requirements Engineering*  
+  Architecture-focused system design project emphasizing requirements analysis, service boundaries, and real-world modeling.
+
+- **[LeetCode Solutions (Auto-Synced)](https://github.com/ArshiaRx/LeetCode)**  
+  *Python · Java · C++ · GitHub Actions*  
+  Automated repository of accepted algorithm solutions organized by difficulty with language usage analytics and CI-based syncing.
+
+- **[Microprocessor Systems Final Project](https://github.com/ArshiaRx/Microprocessor-Systems_FinalProject)**  
+  *Assembly · Embedded Systems*  
+  Low-level microprocessor system implementation emphasizing hardware-software interaction and system constraints.
+
+- **[Bookstore Application (OOP & UML)](https://github.com/ArshiaRx/COE528-BookStore-Application)**  
+  *Java · OOP · UML*  
+  Object-oriented application modeling a bookstore system using abstraction, class hierarchies, and UML design.
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshiaRx&show_icons=true&theme=tokyonight&hide_border=true" width="42%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&layout=compact&theme=tokyonight&hide_border=true" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshiaRx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="42%">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Microprocessor-Systems_FinalProject" width="42%">
 </p>
 
 <p align="center">
