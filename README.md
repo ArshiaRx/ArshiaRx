@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I’m **Arshia Rahim**, a final-year **Computer Engineering (Software)** student with a **Computer Science Minor** at Toronto Metropolitan University (TMU/Ryerson).  
+I’m **Arshia Rahim**, Final-year **Computer Engineering (Software)** student with a **Computer Science Minor** at Toronto Metropolitan University (TMU/Ryerson).  
 I’m passionate about connecting **real-world business systems with intelligent software technologies** — from modular web systems to AI-driven applications.
 
 🔹 Currently exploring:
@@ -29,7 +29,8 @@ I’m passionate about connecting **real-world business systems with intelligent
 - 🚀 Expanding my knowledge in **FastAPI, React, Docker, and CI/CD pipelines**
 
 💼 Alongside my studies, I work with **WirelessWave / Tbooth Wireless (Glentel Inc)** as a **Sales & Mobile Technology Specialist**.  
-There, I engage with mobile ecosystems, IoT devices, and national carriers (Bell, Rogers, Virgin Plus, Fido).  
+There, I engage with mobile ecosystems, IoT devices, and national carriers (Bell, Rogers, Virgin Plus, Fido, Lucky
+Mobile & Chatr).  
 This experience has enhanced my **technical communication, adaptability, and system-level understanding** of how technology connects people daily.
 
 ---
@@ -64,7 +65,7 @@ This experience has enhanced my **technical communication, adaptability, and sys
 
 ### 💼 Professional Experience
 
-**WirelessWave / Tbooth Wireless (Glentel Inc)** — *Sales & Mobile Technology Specialist*  
+**WirelessWave_Tbooth Wireless (Glentel Inc)** — *Sales & Mobile Technology Specialist*  
 *Toronto, Ontario | 2021–Present*  
 - Collaborate with national carriers (Bell, Rogers, Virgin Plus, Fido) to design tailored mobile plans & IoT solutions.  
 - Build expertise in **network systems, device ecosystems, and customer-driven technology integration**.  
@@ -138,9 +139,6 @@ This experience has enhanced my **technical communication, adaptability, and sys
 ---
 
 #### 🏗️ Backend & Software Engineering
-- **[LuxAuto Dealership System](https://github.com/ArshiaRx/LuxAuto)**  
-  *Java · JSP · MySQL · Microservices*  
-  Modular dealership management platform featuring authentication, inventory management, and service-based architecture.
 
 - **[Traffic News App](https://github.com/ArshiaRx/CPS731_TrafficNewsApp)**  
   *Java Servlets · JSP · MySQL · MVC*  
@@ -149,9 +147,9 @@ This experience has enhanced my **technical communication, adaptability, and sys
 ---
 
 #### 🧠 Systems, Architecture & Algorithms
-- **[Car Dealership Architecture Project](https://github.com/ArshiaRx/COE692_CarDealership_Project)**  
+- **[Car Dealership Architecture Project (COE692)](https://github.com/ArshiaRx/COE692_CarDealership_Project)**  
   *Java · Software Architecture · Requirements Engineering*  
-  Architecture-focused system design project emphasizing requirements analysis, service boundaries, and real-world modeling.
+  Architecture-focused system design project emphasizing service boundaries, requirements analysis, and real-world domain modeling.
 
 - **[LeetCode Solutions (Auto-Synced)](https://github.com/ArshiaRx/LeetCode)**  
   *Python · Java · C++ · GitHub Actions*  
