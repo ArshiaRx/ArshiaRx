@@ -168,14 +168,14 @@ This experience has enhanced my **technical communication, adaptability, and sys
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshiaRx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="42%">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Microprocessor-Systems_FinalProject" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshiaRx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaRx&layout=compact&langs_count=8&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArshiaRx&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=ArshiaRx&hide_border=true" width="60%"/>
 </p>
+
 
 ---
 
