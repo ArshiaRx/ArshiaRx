@@ -15,7 +15,7 @@ jobs:
           user: ArshiaRx
 
           # Core sections
-          base: header, activity, community, repositories
+          base: header, repositories
 
           # Language analytics
           plugin_languages: yes
