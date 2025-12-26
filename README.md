@@ -130,11 +130,11 @@ This experience has enhanced my **technical communication, adaptability, and sys
 #### 🤖 AI & Intelligent Systems
 - **[Budget AI Coach (Capstone Project)](https://github.com/ArshiaRx/Budget-AI)**  
   *FastAPI · React · LangChain · YOLOv8 · OpenCV · Tesseract*  
-  AI-driven budget and expense analysis platform using OCR and LLM-based categorization to extract, classify, and visualize spending behavior.
+  COE70A/B AI-driven budget and expense analysis platform using OCR and LLM-based categorization to extract, classify, and visualize spending behavior.
 
 - **[Real-Time Vehicle Tracking (Computer Vision)](https://github.com/ArshiaRx/real-time-vehicle-tracking-cv)**  
   *Python · YOLOv8 · Optical Flow · Kalman Filters*  
-  Real-time vehicle detection and tracking system leveraging computer vision and motion estimation techniques.
+  CPS843 Real-time vehicle detection and tracking system leveraging computer vision and motion estimation techniques.
 
 ---
 
@@ -142,14 +142,14 @@ This experience has enhanced my **technical communication, adaptability, and sys
 
 - **[Traffic News App](https://github.com/ArshiaRx/CPS731_TrafficNewsApp)**  
   *Java Servlets · JSP · MySQL · MVC*  
-  Web-based traffic incident reporting system focused on backend integration, persistence, and modular software design.
+  CPS731 Web-based traffic incident reporting system focused on backend integration, persistence, and modular software design.
 
 ---
 
 #### 🧠 Systems, Architecture & Algorithms
 - **[Car Dealership Architecture Project (COE692)](https://github.com/ArshiaRx/COE692_CarDealership_Project)**  
   *Java · Software Architecture · Requirements Engineering*  
-  Architecture-focused system design project emphasizing service boundaries, requirements analysis, and real-world domain modeling.
+  COE692 Architecture-focused system design project emphasizing service boundaries, requirements analysis, and real-world domain modeling.
 
 - **[LeetCode Solutions (Auto-Synced)](https://github.com/ArshiaRx/LeetCode)**  
   *Python · Java · C++ · GitHub Actions*  
@@ -157,11 +157,11 @@ This experience has enhanced my **technical communication, adaptability, and sys
 
 - **[Microprocessor Systems Final Project](https://github.com/ArshiaRx/Microprocessor-Systems_FinalProject)**  
   *Assembly · Embedded Systems*  
-  Low-level microprocessor system implementation emphasizing hardware-software interaction and system constraints.
+  COE538 Low-level microprocessor system implementation emphasizing hardware-software interaction and system constraints.
 
 - **[Bookstore Application (OOP & UML)](https://github.com/ArshiaRx/COE528-BookStore-Application)**  
   *Java · OOP · UML*  
-  Object-oriented application modeling a bookstore system using abstraction, class hierarchies, and UML design.
+  COE528 Object-oriented application modeling a bookstore system using abstraction, class hierarchies, and UML design.
 
 ---
 
