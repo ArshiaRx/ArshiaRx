@@ -176,8 +176,9 @@ This experience has enhanced my **technical communication, adaptability, and sys
 
 ### 🧮 LeetCode & Learning Progress
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ArshiaRx?theme=dark&font=Monda&ext=activity" width="45%"/>
+  <img src="https://leetcard.jacoblin.cool/ArshiaRx?theme=dark&font=Fira%20Sans%20Extra%20Condensed&border=0&colors=0f172a,334155,7dd3fc,bae6fd,60a5fa,f0f9ff,38bdf8,e0f2fe&v=1" width="65%"/>
 </p>
+
 
 ---
 
