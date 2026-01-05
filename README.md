@@ -151,9 +151,9 @@ This experience has enhanced my **technical communication, adaptability, and sys
   *Java · Software Architecture · Requirements Engineering*  
   Architecture-focused system design project emphasizing service boundaries, requirements analysis, and real-world domain modeling. (COE692)
 
-- **[LeetCode Solutions (Auto-Synced)](https://github.com/ArshiaRx/LeetCode)**  
+- **[LeetCode.com](https://leetcode.com/)**  
   *Python · Java · C++ · GitHub Actions*  
-  Automated repository of accepted algorithm solutions organized by difficulty with language usage analytics and CI-based syncing. ([LeetCode](https://leetcode.com/))
+  Automated repository of accepted algorithm solutions organized by difficulty with language usage analytics and CI-based syncing. [LeetCode Solutions (Auto-Synced)](https://github.com/ArshiaRx/LeetCode)
 
 - **[Microprocessor Systems Final Project](https://github.com/ArshiaRx/Microprocessor-Systems_FinalProject)**  
   *Assembly · Embedded Systems*  
