@@ -153,7 +153,7 @@ This experience has enhanced my **technical communication, adaptability, and sys
 
 - **[LeetCode.com](https://leetcode.com/)**  
   *Python · Java · C++ · GitHub Actions*  
-  Automated repository of accepted algorithm solutions organized by difficulty with language usage analytics and CI-based syncing. [LeetCode Solutions (Auto-Synced)](https://github.com/ArshiaRx/LeetCode)
+  Automated repository of accepted algorithm solutions organized by difficulty with language usage analytics and CI-based syncing. [Click Here for Solutions!](https://github.com/ArshiaRx/LeetCode)
 
 - **[Microprocessor Systems Final Project](https://github.com/ArshiaRx/Microprocessor-Systems_FinalProject)**  
   *Assembly · Embedded Systems*  
