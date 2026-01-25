@@ -56,7 +56,7 @@ This experience has enhanced my **technical communication, adaptability, and sys
 
 ### 🧭 Currently Learning & Exploring
 - 🧠 **Computer Vision & OCR Pipelines** (YOLOv8, OpenCV, Tesseract)
-- 🤖 **AI Tools & Assistants:** Exploring ChatGPT, Gemini, DeepSeek, Sora, and Github Copilot for productivity, ideation and software assistant 
+- 🤖 **AI Tools & Assistants:** Exploring ChatGPT, Gemini, DeepSeek, Sora, and Github Copilot/Cursor for productivity, ideation and software assistant 
 - 🏗️ **Microservice Deployment:** Designing and managing modular service architectures with FastAPI, Docker, and RESTful APIs
 - 🌐 **Frontend & Visualization:** React + Tailwind + Recharts
 - 📊 **Capstone Focus:** AI-based Budget Coach combining OCR and LLM categorization
